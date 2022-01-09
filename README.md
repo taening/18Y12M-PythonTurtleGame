@@ -1,5 +1,8 @@
 # Turtle.io
-Simple Python Game using turtle library
+Simple Python Game using turtle library <br/>
+
+#### ⇩ Click Below Video ⇩
+[![Watch the video](https://img.youtube.com/vi/vn3cE_69864/0.jpg)](https://youtu.be/vn3cE_69864)
 
 ## 공개수 설정
 <img src="/img/1.PNG" width="300" height="300">
@@ -22,5 +25,3 @@ Simple Python Game using turtle library
 ## 컴퓨터승리
 <img src="/img/5.PNG" width="300" height="300">
 
-## 실행영상
-[![Watch the video](https://img.youtube.com/vi/vn3cE_69864/0.jpg)](https://youtu.be/vn3cE_69864)
